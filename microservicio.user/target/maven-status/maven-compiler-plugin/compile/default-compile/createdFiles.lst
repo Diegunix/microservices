@@ -1,0 +1,8 @@
+net\microservices\users\UsersApplication.class
+net\microservices\users\controller\UsersController.class
+net\microservices\users\model\User.class
+net\microservices\users\repository\UserRepository.class
+net\microservices\users\service\impl\UserServiceImpl.class
+net\microservices\users\exception\UserNotFoundException.class
+net\microservices\users\service\UserService.class
+net\microservices\users\repository\impl\UserRepositoryImpl.class

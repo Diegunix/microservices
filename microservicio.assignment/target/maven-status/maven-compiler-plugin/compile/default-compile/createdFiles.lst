@@ -1,0 +1,8 @@
+net\microservices\assignment\service\AssignmentService.class
+net\microservices\assignment\controller\AssignmentController.class
+net\microservices\assignment\exception\UserNotFoundException.class
+net\microservices\assignment\repository\AssignmentRepository.class
+net\microservices\assignment\repository\impl\AssignmentRepositoryImpl.class
+net\microservices\assignment\service\impl\AssignmentServiceImpl.class
+net\microservices\assignment\AssignmentApplication.class
+net\microservices\assignment\model\Assignment.class
